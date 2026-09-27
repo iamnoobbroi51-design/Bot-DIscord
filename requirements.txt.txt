@@ -1,0 +1,6 @@
+discord.py
+selenium
+aiohttp
+requests
+pyotp
+webdriver-manager
